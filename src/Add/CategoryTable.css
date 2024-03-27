@@ -1,0 +1,50 @@
+.Alltable{
+    display: flex;
+    font-display: auto;
+    align-items: center;
+    justify-content: center;
+}
+.table{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.items{
+    font-family: sans-serif;
+    height: 60px;
+    border-radius: 20px;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #a1a1a1;
+}
+.item{
+    color: white;
+    height: 27px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 390px;
+    width: 100%;
+}
+
+.categories{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.Task{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 443px;
+}
